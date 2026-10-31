@@ -10,6 +10,10 @@ Webseite, Shop und persönliches Backend - ein NeverGate-Projekt.
 - [Planung und offene Aufgaben](PLANUNG.md)
 - [Discord-Projektforum](https://discord.com/channels/1560249779626450996/1561331613718282272)
 
+## Aktueller Abgleich
+
+Author / BookWork wird gemeinsam mit Webseite und Shop geführt. Die bestätigten Fehlerabschlüsse #1–#18 vom 21.10. sind erfasst; Titel-Schalter (#19), die neue Zoommeldung und sichtbare automatische Hinweise bleiben offen. [Status und Nachweisgrenzen](STATUS.md).
+
 ## Projektbereiche
 
 **Webseite und Shop:** Öffentliche Startseite, Autoren- und Budgeting-Bereich, Produkte, Kategorien, Warenkorb, Bestellungen, Bestand sowie Zahlungs- und Versandeinstellungen.
@@ -18,6 +22,6 @@ Webseite, Shop und persönliches Backend - ein NeverGate-Projekt.
 
 **Author / BookWork:** Persönlicher Schreibbereich für Buchprojekte, Dokumentbearbeitung, Speichern, Wiederöffnen sowie Import und Export. Die Office-Anbindung und weitere Schreibfunktionen werden getrennt nach Umsetzung und Abnahme dokumentiert.
 
-**Nachrichten:** Private Backend-Verbindung zu NeverGate; die praktische Zustellung in beide Richtungen ist noch abzunehmen.
+**Nachrichten:** Private Backend-Verbindung zu NeverGate; aktuelle Fehler-, Aktualisierungs- und Abnahmegrenzen stehen im Funktionsstatus.
 
-**Stand: 18.10.2026.** Dieses Repository enthält zunächst die öffentliche Projektdokumentation. Es ist kein vollständiger Quellcodeexport und keine neue Softwareveröffentlichung. Persönliche Manuskripte, Kunden-, Zahlungs-, Nachrichten- und Zugangsdaten werden nicht übernommen.
+**Stand: 31.10.2026.** Dieses Repository enthält zunächst die öffentliche Projektdokumentation. Es ist kein vollständiger Quellcodeexport und keine neue Softwareveröffentlichung. Persönliche Manuskripte, Kunden-, Zahlungs-, Nachrichten- und Zugangsdaten werden nicht übernommen.

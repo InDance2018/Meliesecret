@@ -1,34 +1,25 @@
-# Meliesecret - offene Aufgaben und Planung
+# Meliesecret · offene Aufgaben
 
-Stand: 18.10.2026. Diese Liste dokumentiert vorhandene Anforderungen. Sie erteilt keine pauschale Freigabe für zusätzliche Funktionen, echte Zahlungen, Datenübertragungen oder einen Webseitenumzug.
+Stand: **31.10.2026**. Dokumentation vorhandener Anforderungen; Umsetzung, Test und Nutzerabnahme werden getrennt geführt.
 
-## Webseite, Shop und Backend
+## Aktuelle Prioritäten
 
-- [ ] Webseiteninhalte und Darstellung auf PC und Handy vollständig abnehmen.
-- [ ] Betreiberkonfiguration der Zahlungsarten und Versandkosten bestätigen.
-- [ ] Speichern der Einstellungen erneut prüfen.
-- [ ] Bestell-, Bestands- und Zahlungsablauf mit Testdaten ohne echte Zahlung dokumentieren.
-- [ ] Benutzerrechte und Zugangsmöglichkeiten Ende zu Ende prüfen.
-- [ ] Private Backend-Nachrichten in beide Richtungen samt Absendern und Rechteabgrenzung abnehmen.
+- [ ] Sichtbare Fett-/Kursiv-Schalter für Kapiteltitel aus [Issue 19](https://github.com/InDance2018/Meliesecret/issues/19) praktisch bestätigen; Issue bleibt offen.
+- [ ] Zoom/Textvergrößerung ohne Überlauf an der rechten Begrenzung auf dem Zielgerät prüfen.
+- [ ] Neue Nachrichten/Mitteilungen automatisch anzeigen und aktualisieren, auch im Author während des Schreibens.
+- [ ] Kompakte pinke Author-Anzeige und sichtbare Hinweise im Backend praktisch abnehmen.
 
-## Author / BookWork
+Issues 1–18 sind gemäß dokumentiertem Eigentümerauftrag als behoben/Fix bestätigt geschlossen. Sie werden nicht erneut pauschal als ungebaute Aufgaben geführt; spätere konkrete Folgefehler bleiben davon getrennt.
 
-- [ ] Versionswiederherstellung praktisch bestätigen.
-- [ ] Import und Export auf den vorgesehenen Geräten vollständig abnehmen.
-- [ ] Offene Cursor-, Prolog- und Loginprüfungen durchführen.
-- [ ] Stil- und Formatfelder kompakter gestalten und konkrete Anordnung abstimmen.
-- [ ] Kapitelübersicht, Kapitelerkennung und Wortzahl je Kapitel abschließen.
-- [ ] Gewünschte Normseiten-Vorlage samt Schrift-/Ausrichtungsoptionen, Absätzen, Zeilennummern, Kopf-/Fußzeilen und Seitenzahlen umsetzen beziehungsweise abnehmen.
-- [ ] Separate Taschenbuch-/Hardcoveransicht mit unverändertem Original konkretisieren; linke und rechte Buchseite einzeln zählen.
-- [ ] Exposé-Vorlage abstimmen.
-- [ ] Vollständigen Word-Funktionsvergleich abschließen; Diktat bleibt ausgeschlossen.
+## Weitere offene Abnahmen
 
-## Spätere Entscheidungen
+- [ ] Webseiteninhalte und Darstellung auf PC/Handy, Shop-/Bestandsablauf, Zahlungs-/Versandkonfiguration und Einstellungen mit sicheren Testdaten prüfen.
+- [ ] Benutzerrechte, Anmeldung und vorgesehene Zugangsmöglichkeiten vollständig abnehmen.
+- [ ] Import/Export auf Zielgeräten und Versionswiederherstellung prüfen.
+- [ ] Normseiten-/Format-/Kapitelwerkzeuge, Exposé und vollständigen Word-Vergleich anhand der tatsächlichen aktuellen Funktionen abschließen.
+- [ ] Buchlayoutdetails und Einzelzählung linker/rechter Seiten praktisch abnehmen; bereits bestätigte Doppelseiten- und Bearbeitungsfixes nicht erneut als ungebaut behandeln.
+- [ ] KI-Lektorat/-Korrektorat und Offline-/Windows-Nutzung gesondert entscheiden. Keine automatische Manuskriptübertragung; Diktat ausgeschlossen.
 
-- [ ] KI-Lektorat und KI-Korrektorat: Funktionsumfang, Qualität, Anbieter, Kosten und Freigabe einer möglichen Manuskriptübertragung klären. Lokale Korrekturregeln sind keine KI-Anbindung.
-- [ ] Offline-/Windows-Nutzung gesondert entscheiden.
-- [ ] Endgültige Umschaltung und vollständigen Webseitenumzug erst nach Abschluss und Abnahme von Author behandeln.
+Weitere technische Websiteänderungen und endgültige Umschaltungen benötigen den jeweils konkreten Auftrag. Diese Dokumentationspflege verändert die laufende Webseite nicht.
 
-## Dokumentation
-
-Neue Ergebnisse mit Datum und Nachweis in [STATUS.md](STATUS.md) und [VERLAUF.md](VERLAUF.md) ergänzen. Berichtete Umsetzung, technische Prüfung, praktische Nutzerabnahme und Veröffentlichung getrennt halten. Unbekannte frühere Entwicklungsschritte nur bei neuen Belegen nachtragen.
+[Status](STATUS.md) · [Verlauf](VERLAUF.md).

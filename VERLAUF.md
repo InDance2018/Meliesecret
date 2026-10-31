@@ -1,3 +1,17 @@
+# Fortschreibung · 31.10.2026
+
+## 18.–21.10. · Author-Fehlerpflege
+
+Die bestehenden Issues 1–18 dokumentieren Korrekturen für Text-/Seitenfluss, Buchansicht, Titel-/Formatbedienung, Speichern, Wörterbuch/Korrekturvorschläge, Projekt-/Kapitellöschen sowie die dort genannten Nachrichten-/Passkeyprobleme. Am 21.10. gemäß dokumentiertem Eigentümerauftrag geschlossen und mit Fixbestätigung versehen; kein erneuter unabhängiger Gesamttest durch diese Fortschreibung. [Offener Nachfolgefehler19](https://github.com/InDance2018/Meliesecret/issues/19) betrifft sichtbare Fett-/Kursiv-Schalter für Kapiteltitel, Rückbestätigung steht aus.
+
+## 31.10. · Zoom und automatische Hinweise
+
+Erneuter Bericht über Textüberlauf an der rechten Begrenzung bei Vergrößerung. Automatische Nachrichten-/Mitteilungshinweise auch während des Schreibens sowie eine kompakte pinke Anzeige im Author angefordert. Neue praktische Abnahme fehlt; keine vollständige Fehlerbehebung behauptet. Keine persönlichen Nachrichteninhalte übernommen.
+
+README, [Status](STATUS.md) und [offene Aufgaben](PLANUNG.md) aktualisiert. Author bleibt Bestandteil dieses Repositories, kein neues eigenständiges Repository angelegt. Die folgende frühere Projektgeschichte bleibt mit ihrem ursprünglichen Nachweisstand erhalten.
+
+---
+
 # Meliesecret - Entwicklung und Verlauf
 
 Dokumentationsstand: 18.10.2026. Nachgetragen auf ausdrücklichen Auftrag des Projektinhabers.
