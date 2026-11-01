@@ -1,3 +1,24 @@
+# Fortschreibung · 01.11.2026
+
+## 31.10. · Author-Korrekturen und Hinweise
+
+Die neueren Arbeitsberichte ergänzen den zuvor als offen beschriebenen Auftrag:
+
+- **Markierungen:** Unterstreichen statt Text verdecken als korrigiert berichtet; zwölf Zoom-/Skalierungskombinationen wurden laut damaligem Bericht geprüft. Das löste noch nicht den anschließend erneut gemeldeten Textüberlauf.
+- **Zoom-Textumbruch:** Nach der erneuten Meldung Korrektur innerhalb des sichtbaren Bereichs und Prüfung auf vier Laptopbreiten berichtet.
+- **Kompakte Anzeige:** Kleine Anzeige auch während des Schreibens als eingebaut berichtet: Pink mit Anzahl für ungelesene Nachrichten/E-Mails, Grün bei gelesenem Stand. Automatische Aktualisierung berichtet. Die anschließende Nutzerkontrolle bestätigte den tatsächlichen pinken Hinweis noch nicht.
+- **Schreibhilfe:** Gewollte Wiederholungen pro Buch merken und ausblenden, „Fundstelle zeigen“ mit genauer Markierung sowie direkte Korrektur über Eingabefeld oder Wörterbuchvorschläge als korrigiert berichtet. Laptoptest ausdrücklich offen.
+
+## 01.11. · Normseiten und Word-Export
+
+1,5-facher Zeilenabstand, saubere Textumbrüche sowie bereinigte zusätzliche Einzüge im Word-Export wurden als korrigiert und geprüft gemeldet. Eine anschließende Nutzerabnahme ist im gelesenen Verlauf nicht enthalten.
+
+**Bedienhinweis aus der Übergabe:** Zuerst speichern, danach mit Strg + F5 neu laden; Normseiten anschließend neu öffnen. Ungespeicherte Arbeit nicht durch Neuladen verwerfen.
+
+Diese Fortschreibung dokumentiert die tatsächlichen späteren Umsetzungsmeldungen. Sie ersetzt keine unabhängige Laufzeitprüfung und schließt weder Issue 19 noch die übrigen Gesamtabnahmen automatisch. Keine privaten Nachrichteninhalte oder Manuskripte übernommen.
+
+---
+
 # Fortschreibung · 31.10.2026
 
 ## 18.–21.10. · Author-Fehlerpflege
